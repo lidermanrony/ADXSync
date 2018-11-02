@@ -1,0 +1,1 @@
+.create-or-alter function with (folder=ops) testFunction (str: string) { TestAdxSync | where str1  == str |  limit 10 }
