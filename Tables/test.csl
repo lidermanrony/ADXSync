@@ -1,1 +1,3 @@
 .create-merge table TestAdxSync (str1: string, int1: int)
+
+.drop column TestAdxSync.str1
