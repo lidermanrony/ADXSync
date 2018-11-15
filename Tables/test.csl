@@ -2,4 +2,4 @@
 
 .drop column TestAdxSync.str1
 
-.creat-merge table TestAdxSync2 (str1: string, int1: int)
+.create-merge table TestAdxSync2 (str1: string, int1: int)
