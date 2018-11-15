@@ -1,0 +1,1 @@
+.create-merge table Purchases (productId: string, productName: string, purchaseAmount: int) with (folder=Business)
